@@ -239,10 +239,7 @@ Contributions are welcome! Please follow these steps:
    ```
 
 5. **Open a Pull Request**
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+   
 
 ## Acknowledgements
 
@@ -250,3 +247,14 @@ This project is licensed under the [MIT License](LICENSE).
 - [Streamlit](https://streamlit.io/) for the web application framework.
 - [Loguru](https://github.com/Delgan/loguru) for the logging library.
 - Inspired by collaborative multi-agent system architectures and prompt engineering techniques like Chain-of-Thought (CoT) and ReAct.
+
+## ©️ License 🪪 
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+#### **If you like this LLM Project do drop ⭐ to this repo**
+#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurpreetkaurjethra/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GURPREETKAURJETHRA/)
+
+---
